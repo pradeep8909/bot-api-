@@ -1,0 +1,92 @@
+[
+  {
+    "emailid": "rahulrj@navgurukul.org",
+    "Title": "js",
+    "Time": {
+      "from": "5",
+      "to": "6"
+    },
+    "Date": "today"
+  },
+  {
+    "emailid": "anoop18@navgurukul.org",
+    "Title": "python",
+    "Time": {
+      "from": "12pm",
+      "to": "4pm"
+    },
+    "Date": "today"
+  },
+  {
+    "emailid": "pradeep18@gmail.com",
+    "Title": "python",
+    "Time": {
+      "from": "4",
+      "to": "6"
+    },
+    "Date": "Toaday"
+  },
+  {
+    "emailid": "sahid18@navgurukul.org",
+    "Title": "MYsql",
+    "Time": {
+      "from": "1pm",
+      "to": "2pm"
+    },
+    "Date": "tomarrow"
+  },
+  {
+    "emailid": "r@navgurukul.org",
+    "Title": "Class on MySQL",
+    "Time": {
+      "from": "4PM",
+      "to": "5PM"
+    },
+    "Date": "today"
+  },
+  {
+    "emailid": "pradeep18@navgurukul.org",
+    "Title": "java",
+    "Time": {
+      "from": "2",
+      "to": "4"
+    },
+    "Date": "today"
+  },
+  {
+    "emailid": "amanjha18@navgurukul.org",
+    "Title": "python list",
+    "Time": {
+      "from": "5",
+      "to": "to"
+    },
+    "Date": "12/3"
+  },
+  {
+    "emailid": "amanjha18@navgurukul.org",
+    "Title": "list",
+    "Time": {
+      "from": "5pm",
+      "to": "6pm"
+    },
+    "Date": "23/3"
+  },
+  {
+    "emailid": "pradeep18@navgurukul.org",
+    "Title": "live",
+    "Time": {
+      "from": "4",
+      "to": "5"
+    },
+    "Date": "2"
+  },
+  {
+    "emailid": "pradeep@gmail.com",
+    "Title": "i ",
+    "Time": {
+      "from": "2",
+      "to": "6"
+    },
+    "Date": "7"
+  }
+]
